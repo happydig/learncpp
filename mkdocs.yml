@@ -1,6 +1,6 @@
 site_name: LearnCPP
 pages:
-    - 概览: index.md
+    - 概览: readme.md
     - 简介: intro.md
     - 环境设置: environment-setup.md
     - 基本语法: basic-syntax.md
